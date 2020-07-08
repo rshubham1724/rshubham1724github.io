@@ -1,0 +1,43 @@
+body {
+    /*background-color: rgb(41, 39, 170);*/
+    background-image: url(https://cdn2.lemmecheck.com/lmccom/uploads/2013/11/ph-valentinanappi-pet1113-08.jpg);
+    background-size: 650px;
+    padding-left: 450px;
+    padding-right: 450px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#form{
+    background-image: linear-gradient(to right,#0056d6, #0091e3, #00bac8, #9dd9be, #f1f6e5);
+    border-style: solid;
+    border-radius: 8px;
+    border-color: black;
+    border-width: 3px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+#head {
+    text-align: center;
+    color: rgb(241, 20, 20);
+    font-size: larger;
+}
+
+#head1 {
+    text-align: center;
+    font-size: larger;
+    padding-bottom: 20px;
+}
+
+#items {
+    padding-bottom: 10px;
+    font-weight: 500;
+}
+
+#table {
+    padding-bottom: 20px;
+    border-spacing: 18px;
+}
+    
