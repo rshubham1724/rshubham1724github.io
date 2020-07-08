@@ -17,6 +17,7 @@ body {
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
+    font-weight: 500;
 }
 
 #head {
@@ -33,7 +34,12 @@ body {
 
 #items {
     padding-bottom: 10px;
+    padding-left: 18px;
     font-weight: 500;
+}
+
+#submit {
+    padding-left: 18px;
 }
 
 #table {
